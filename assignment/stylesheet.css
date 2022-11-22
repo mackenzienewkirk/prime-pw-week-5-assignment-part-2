@@ -5,4 +5,16 @@ header {
     text-align:center;
   }
 
+main {
+    background-color: #D7D7D7;
+    padding: 1em;
+}
 
+img {
+    background-image: url("record.png");
+    background-repeat: repeat;
+}
+
+body {
+    margin: 0px;
+}
